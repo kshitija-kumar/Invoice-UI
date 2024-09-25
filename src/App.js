@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';
+import './Invoice.css';
 import Invoice from './Invoice';
 
 function App() {
